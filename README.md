@@ -1,4 +1,4 @@
-"# Dev apps"
+*******************************************************************************
 Application gestion de stock
 Pour pouvoir le faire fonctionner, Il est nécessaire :
 	=> D' importer le fichier 'vente_provande.sql' dans votre BASE DE DONNEE (ex: phpMyAdmin ) 
