@@ -8,7 +8,7 @@ Pour pouvoir le faire fonctionner, Il est nécessaire :
                         http://www.apache.org/licenses/
     **************************************************************************
 		+ mais avant il faut creer la base de donée -> (gest_lfl)
-	NB : Le fichier se trouve dans le dossier config de l'application (base de donées vente_provande)
+
 	=> Authentification
 		Login : 
 		Password : 
