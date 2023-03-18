@@ -46,6 +46,9 @@
       </div>
     </div>
   </nav>
+  <div class="container">
+    
+  </div>
 </div>
   <script src="assets/jquery/jquery.min.js"></script>
   <script src="controller/js/produit.func.js"></script>
