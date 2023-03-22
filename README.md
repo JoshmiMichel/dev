@@ -13,4 +13,4 @@ Pour pouvoir le faire fonctionner, Il est nécessaire :
 		Login : 
 		Password : 
 ## AUTEUR : Joshmi Michel ANDRIANARAHINJAKA
-## Developpeur web
+## Developpeur web et Mobile
