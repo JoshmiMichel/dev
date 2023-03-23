@@ -67,6 +67,5 @@
   <script src="assets/pdfmake/vfs_fonts.js"></script>
   <script src="assets/jszip/jszip.min.js"></script>
   <script src="assets/pdfmake/vfs_fonts.js"></script>
-
 </body>
 </html>
